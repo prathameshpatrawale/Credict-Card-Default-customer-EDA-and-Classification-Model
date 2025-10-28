@@ -1,2 +1,4 @@
 # Credict-Card-Default-customer-EDA-and-Classification-Model
-This is my First Project of EDA and Classification model building in this project i did EDA first then Use Logistic regression model then used GridsearchCv for Hyper parameter tunning and then i used Bagging techning voting classifier to choose best classification model 
+This is my first project on EDA and Classification Model Building.
+In this project, I first performed Exploratory Data Analysis (EDA), then used a Logistic Regression model for prediction.
+After that, I applied GridSearchCV for hyperparameter tuning and finally used a Bagging technique (Voting Classifier) to select the best classification model.
